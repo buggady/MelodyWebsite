@@ -6,7 +6,7 @@ app.controller("HomeController",  function($scope){
     };
 
     $scope.BackgroundImage = {
-    	background: 'url(pimpphoto.png)',
+    	background: 'url(images/pimpphoto.png)',
     	'background-size': 'cover',
     	'background-repeat': 'no-repeat',
     	'background-position': 'center center',
@@ -15,7 +15,7 @@ app.controller("HomeController",  function($scope){
     };
 
     $scope.InstagramBgImg = {
-    	background: 'url(inst_gallery_bg.png)',
+    	background: 'url(images/inst-gallery-bg.png)',
     	'background-size': '700px',
         'background-position': '12% 60%',
         'background-repeat': 'repeat-x'
